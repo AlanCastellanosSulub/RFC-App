@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RFC-App</string>
+    <string name="button1">Generar</string>
+    <string name="button2">Limpiar</string>
+    <string name="view1">Nombre</string>
+    <string name="view2">Apellido Paterno</string>
+    <string name="view3">Apellido Materno</string>
+    <string name="view4">Dia</string>
+    <string name="view5">Mes</string>
+    <string name="view6">Año</string>
+</resources>
