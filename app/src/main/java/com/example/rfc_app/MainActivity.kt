@@ -13,12 +13,19 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
     }
     override fun onClick(v: View?) {
         button2.setOnClickListener {
-            textName.setText("")
-            textApeP.setText("")
-            textApeM.setText("")
-            textDay.setText("")
-            textMoth.setText("")
-            textYear.setText("")
+            editText1.setText("")
+            editText2.setText("")
+            editText3.setText("")
+            editText4.setText("")
+            editText5.setText("")
+            editText6.setText("")
+            editText7.setText("")
+        }
+    }
+
+    fun onClick2(v: View?) {
+        button2.setOnClickListener {
+
         }
     }
 
